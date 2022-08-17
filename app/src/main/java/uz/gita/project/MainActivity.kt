@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         // nimadir yozildi
         // nimadir yozildi
         // nimadir yozildi
-        // nimadir yozildi
+        //realmadrid
+        // DSADAS /DASDASD
     }
 }
