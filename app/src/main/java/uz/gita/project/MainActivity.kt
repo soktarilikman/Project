@@ -10,5 +10,9 @@ class MainActivity : AppCompatActivity() {
         // nimadir yozildi
 
         //XolisbekkkkkkkkkkkkkkkkkAbdullayevvvvv
+
+
+
+        //Mekhriddinov
     }
 }
